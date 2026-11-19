@@ -41,6 +41,7 @@ Imports:
     dplyr (>= 1.1.0),
     generics,
     lifecycle,
+    lpSolve,
     lubridate (>= 1.7.0),
     methods,
     rlang (>= 1.0.0),
